@@ -1,3 +1,5 @@
+#verificar qual é o primeiro nome e último nome digitado
+
 nome = str(input('Digite seu Nome Completo: '))
 
 primeiro = nome.split()

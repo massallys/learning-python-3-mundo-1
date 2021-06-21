@@ -1,3 +1,5 @@
+#verificar a quantidade de "A" que existe na frase que foi digitada
+
 frase = str(input('Digite uma frase: ')).strip().upper()
 
 print('A letra A aparece {} vezes na frase.'.format(frase.count('A')))

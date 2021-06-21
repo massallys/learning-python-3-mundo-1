@@ -1,3 +1,5 @@
+#inserir um numero e verificar a sua unidade, dezena, centena e milhar
+
 numInformado = int(input('Infome um numero: '))
 
 unidade = numInformado // 1 % 10
