@@ -1,3 +1,5 @@
+#veririfcar se o número digitado é par ou ímpar
+
 import colorama
 from colorama import Fore
 

@@ -1,3 +1,5 @@
+#exercício para verificiar a velocidade do carro e prosseguir de acordo com o if/else
+
 import colorama
 from colorama import Fore
 
